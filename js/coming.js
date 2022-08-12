@@ -4,7 +4,7 @@
  const minutes = document.getElementById('minutes');
  const seconds = document.getElementById('seconds');
 
- const dayEvent = new Date('April 19 2022 00:00:00').getTime();
+ const dayEvent = new Date('April 19 2025 00:00:00').getTime();
 
  function countDown() {
      const now = new Date().getTime();
